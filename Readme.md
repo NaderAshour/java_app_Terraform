@@ -62,7 +62,4 @@ terraform output
 - Integrate with Kubernetes for containerized workloads.
 
 ## 🤝 Contributors
-- **Nader Ashour**
 - **Mohamed Elweza**
-
-#DevOps #Terraform #AWS #InfrastructureAsCode #Cloud #Automation
